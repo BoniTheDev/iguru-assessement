@@ -1,0 +1,38 @@
+.subjects {
+  text-align: start;
+  font-size: 20px;
+  width: 100px;
+}
+
+.subject-name {
+  font-size: 12px;
+  font-weight: 700;
+  width: "100px";
+}
+
+.term {
+  text-align: center;
+}
+
+.hr {
+  border: 1px solid rgb(27, 23, 23);
+
+  width: 100%;
+}
+
+.term1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.result-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+  font-family: "Bree Serif";
+  font-size: 15px;
+  font-weight: 700;
+}

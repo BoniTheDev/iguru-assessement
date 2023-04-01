@@ -1,0 +1,19 @@
+
+
+.App {
+  
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 2rem;
+  border: 1px solid black;
+  
+}
+
+
+
+
+table, th, td {
+  border: 1px solid black;
+}
